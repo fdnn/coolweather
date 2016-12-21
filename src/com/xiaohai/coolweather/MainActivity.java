@@ -1,4 +1,6 @@
-package com.example.coolweather;
+package com.xiaohai.coolweather;
+
+import com.xiaohai.coolweather.R;
 
 import android.app.Activity;
 import android.os.Bundle;
